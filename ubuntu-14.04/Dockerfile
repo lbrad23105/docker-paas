@@ -16,6 +16,5 @@ ENV UBUNTU_PAAS_SHELL bash
 ENTRYPOINT ["/bin/bash"]
 
 # CMD says hello to the user.
-CMD ["printf 'Allo and welcome to Luke Brady's Paas Ubuntu 14.04 image.\n
-                                             Have a great time friend\n."]
+CMD ["printf 'Allo and welcome to Luke Brady's Paas Ubuntu 14.04 image.\nHave a great time friend\n."]
    
